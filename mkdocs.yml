@@ -1,0 +1,24 @@
+site_name: Documentação CUSTOMIZA+
+nav:
+  - Introdução: index.md
+  - Repositórios: repositorios.md
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: dark blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: light blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - include-markdown

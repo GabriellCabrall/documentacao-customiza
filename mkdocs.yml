@@ -2,6 +2,8 @@ site_name: Documentação CUSTOMIZA+
 nav:
   - Introdução: index.md
   - Repositórios: repositorios.md
+  - Arquitetura:
+      - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
 theme:
   name: material
   palette:

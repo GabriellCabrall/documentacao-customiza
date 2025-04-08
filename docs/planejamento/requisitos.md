@@ -21,3 +21,7 @@ Após análise superficial, o desenvolvedor definiu os seguintes requisitos:
 | RF13 | Deve ser possível o administrador gerenciar produtos (editar/excluir)       |
 | RF14 | Deve ser possível o administrador visualizar pedidos realizados             |
 | RF15 | Deve ser possível enviar notificação por e-mail após compra realizada       |
+
+| Data       | Versão | Descrição                                   | Autor(es)                                           |
+| ---------- | ------ | ------------------------------------------- | --------------------------------------------------- |
+| 08/04/2025 | 1.0    | Inicia a criação do documento de requisitos | [Gabrie Cabral](https://github.com/GabriellCabrall) |

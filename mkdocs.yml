@@ -4,6 +4,8 @@ nav:
   - Repositórios: repositorios.md
   - Arquitetura:
       - Documento de Arquitetura de Software: arquitetura/documento-arquitetura.md
+  - Planejamento:
+      - Documento de Requisitos: planejamento/requisitos.md
 theme:
   name: material
   palette:
